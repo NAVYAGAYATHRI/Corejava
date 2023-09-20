@@ -1,0 +1,17 @@
+public class Demodot{
+ public static void main( String bn[]){
+int n1=6;
+int n2 =8;
+r1= n1+n2;
+w1=n1-n2;
+y1=n1*n2;
+v1=n1/n2;
+b1=n1%n2;
+  System.out.println(" Navya" );
+System.out.println(" xyz@gmail.com" );
+System.out.println(" +91XXXXXXXXXX" );
+System.out.println(" Add "+n1 and +n2 ="+r1 );
+System.out.println(" Sub "+n1 and +n2 ="+w1 );
+System.out.println(" Mul "+n1 and +n2 ="+y1 );
+System.out.println(" Div "+n1 and +n2 ="+v1 );
+System.out.println(" Mod "+n1 and +n2 ="+b1 );
